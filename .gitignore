@@ -16,5 +16,9 @@ build/
 # VS Code
 .vscode/
 
+venv/
+.venv/
+env/
+
 # Logs
 *.log
